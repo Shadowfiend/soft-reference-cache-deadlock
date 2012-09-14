@@ -1,0 +1,1 @@
+This project shows Lift's SoftReferenceCache deadlocking behavior.
